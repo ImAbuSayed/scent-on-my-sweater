@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-on-my-sweater/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Scent On My Sweater](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-my-sweater/) |
+| **Get License** | [License this song: Scent On My Sweater](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-my-sweater/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3707f22353bd33b9e3e20530e589ecacaac583a00d42e2cab4245a5584d2ce44` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

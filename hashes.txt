@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Scent On My Sweater
+
+This log tracks the cryptographic history and versioning for the song **Scent On My Sweater** (scent-on-my-sweater).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T18:04:27.743697 | `v1` | `3707f22353bd33b9e3e20530e589ecacaac583a00d42e2cab4245a5584d2ce44` | `9bdc93c92fc75f27d4f8b0adade9818f345bb027ac3a6370058d1094c9b1c378` | `2026-06-09_scent-on-my-sweater-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
