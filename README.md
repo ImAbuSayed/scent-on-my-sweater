@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-on-my-sweater/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Scent On My Sweater](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-my-sweater/) |
+| **Get License** | [Obtain a Music License for Scent On My Sweater](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-my-sweater/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There's a lingering whisper from the night we met
+> A soft kind of magic I could never forget
+> I'm holding onto moments when we were together
+> Still breathing in the scent on my sweater
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
